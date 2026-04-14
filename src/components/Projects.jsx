@@ -14,13 +14,6 @@ const projetos = [
     desc: 'Estiloso e Moderno.',
     imagem: fotoProjeto,
     url: 'https://github.com/lopesfabiola29/meu-portfolio-react'
-  },
-  {
-    id: 3,
-    titulo: 'Salão Fashion - Site -',
-    desc: 'Estiloso e Moderno.',
-    imagem: fotoProjeto,
-    url: 'https://github.com/lopesfabiola29/meu-portfolio-react'
   }
 ];
 
