@@ -6,14 +6,14 @@ const projetos = [
     titulo: 'Meu Portfólio',
     desc: 'Design elegante com suporte a tema escuro.',
     imagem: fotoProjeto,
-    url: '#'
+    url: 'https://github.com/lopesfabiola29/meu-portfolio'
   },
   {
     id: 2,
     titulo: 'Meu Portfólio React',
     desc: 'Estiloso e Moderno.',
     imagem: fotoProjeto,
-    url: '#'
+    url: 'https://github.com/lopesfabiola29/meu-portfolio-react'
   }
 ];
 
